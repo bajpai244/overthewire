@@ -1,4 +1,4 @@
-# Level 6-> Level 7
+## Level 6-> Level 7
 
 So, here three things are given to us:
 
